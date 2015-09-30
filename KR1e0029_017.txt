@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋本例
-#+DATE: 2015-09-23 09:39:29
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:13:21.683068
+#+PROPERTY: ID KR1e0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1e0029_WYG_017-1a>¶
 欽定四庫全書¶
 　春秋本例巻十七¶
@@ -200,4 +202,3 @@
 　　宣九年秋取根牟¶
 　　　　右四著例¶
 　春秋本例卷十七¶
-
